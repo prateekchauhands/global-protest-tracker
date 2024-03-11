@@ -27,7 +27,7 @@ The future of these protests is uncertain, as they face many challenges and risk
 
 What is clear, however, is that these protests are a sign of a deep and widespread dissatisfaction with the status quo, and a desire for a more just and democratic world. They are also a test for the resilience and legitimacy of governments, and their ability to respond to the demands and aspirations of their people. The rise of global dissent is not a passing phenomenon, but a defining feature of our times.
 
-## Looker Studio Dashboard Preview
+## Dashboard Preview
 Click the link to access the interactive dashboard - [Global Protests Tracker](https://lookerstudio.google.com/u/0/reporting/96bb696a-d2e4-4a17-bc57-ee640fd588ad/page/XzNuC)
 
 ![Global Protests Tracker Preview Image](/images/global-protests-tracker.png)
